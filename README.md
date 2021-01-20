@@ -1,6 +1,14 @@
 # CYu_L1MIPI_Project
-Project demo on December 2019  
+Project I made for the demo on my freshman year at CYu on December 2019.  
 See projet.pdf (written in French) for the subject.  
+  
+# Running the project
+The project runs on Windows 10 and should work on any GNU/Linux distributions as long the console supports UTF-8 encoding.  
+CY Cergy Paris Université computers run on Ubuntu LTS and students use GCC as C compiler.  
+  
+If you are using Ubuntu LTS then open a terminal and do:
+> gcc projet.c -o projet  
+> ./projet  
   
 MIT License
 
