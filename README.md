@@ -1,5 +1,5 @@
-# CYu_L1MIPI_Project
-Project I made for the demo on my freshman year at CYu on December 2019.  
+# CYu_L1MIPI_CS_Project
+Project I made for the CS demo on my freshman year at CYu on December 2019.  
 See projet.pdf (written in French) for the subject.  
   
 # Running the project
