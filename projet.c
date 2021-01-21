@@ -156,7 +156,7 @@ void affiche_carte(int carte[20][20],int position_personnage[2])
     char herbe[] = "^ ";     //0
     char fleur[] = "🌷";     //1
     char arbre[] = "🌲";     //2, obstacle
-    char rocher[] = "🕳 ";   //3, obstacle
+    char rocher[] = "🪨";   //3, obstacle
     char clef[] = "🔑";      //4, objet
     char piece_or[] = "💰";  //5, objet
     char cadena[] = "🔒";    //6, objet
