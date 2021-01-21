@@ -1,6 +1,7 @@
 # CYu_L1MIPI_CS_Project
 Project I made for the CS demo on my freshman year at CYu on December 2019.  
 See projet.pdf (written in French) for the subject.  
+![](english_edition/project.png?raw=true)
   
 # Running the project
 The project runs on Windows 10 and should work on any GNU/Linux distributions as long the console supports UTF-8 encoding and emojis.  
@@ -9,6 +10,10 @@ CY Cergy Paris Université computers run on Ubuntu LTS and students use GCC as C
 If you are using Ubuntu LTS then open a terminal and do:
 > gcc projet.c -o projet  
 > ./projet  
+
+If you want to use the English edition then do:  
+> gcc english_edition/project.c -o project  
+> ./project  
   
 MIT License
 
