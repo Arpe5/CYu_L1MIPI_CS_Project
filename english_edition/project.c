@@ -472,7 +472,7 @@ int deplace_monstre(int carte[20][20],int position_personnage[2],int case_avant)
         }
         else //No. He already moved beforehand therefore we know what was on the map.
         {
-            carte[position_monstre[0]][position_monstre[1]] = case_avant; //We put back what there was using the variable case_avant that we putted in memory.
+            carte[position_monstre[0]][position_monstre[1]] = case_avant; //We put back what there was using the variable case_avant we put in memory.
         }
     }
     
